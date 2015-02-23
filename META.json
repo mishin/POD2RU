@@ -1,5 +1,5 @@
 {
-   "abstract" : "Blah blah blah",
+   "abstract" : "Perl Документация по-русски",
    "author" : [
       "Nikolay Mishin <mi@ya.ru>"
    ],
@@ -47,6 +47,6 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "version" : "5.18.0.1.14"
 }
 
