@@ -151,7 +151,7 @@ Nikolay Mishin <mi@ya.ru>
 
 # COPYRIGHT
 
-Copyright 2015- Nikolay Mishin
+Copyright 2015 - Nikolay Mishin
 
 # LICENSE
 
