@@ -278,3 +278,4 @@ it under the same terms as Perl itself.
 L<POD2::ES>, L<POD2::PT_BR>, L<POD2::IT>, L<POD2::FR>, L<POD2::LT>.
 
 =cut
+
