@@ -1,5 +1,5 @@
 =encoding UTF-8
-=head1 НАЗВАНИЕ
+=head1 NAME/НАИМЕНОВАНИЕ
 X<regular expression> X<regex> X<regexp>
 
 perlre - регулярные выражения Perl
