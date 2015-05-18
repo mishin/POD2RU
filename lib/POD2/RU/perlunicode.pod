@@ -1,6 +1,6 @@
 =encoding utf8
 
-=head1 НАИМЕНОВАНИЕ
+=head1 NAME/НАИМЕНОВАНИЕ
 
 perlunicode - Поддержка Юникода в Perl
 
