@@ -1,6 +1,6 @@
 =encoding utf8
 
-=head1 НАИМЕНОВАНИЕ
+=head1 NAME/НАИМЕНОВАНИЕ
 
 perlreref - Справочник регулярных выражений Perl
 
